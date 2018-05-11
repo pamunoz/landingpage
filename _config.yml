@@ -1,0 +1,2 @@
+baseurl: /landingpage
+exclude: ['README.md']
